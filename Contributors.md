@@ -12399,6 +12399,7 @@
 - [Donte Winslow] (https://github.com/dontewinslow)
 - [Yash Gupta] (https://yashgupta.surge.sh)
 - [Tyler Wallis](https://github.com/tylerwallis95)
+- [Alexandru Andrei] (https://github.com/alexandruandrei90)
 - [Sam Richardson](https://github.com/samjrrr)
 - [Aparna Annapragada](https://github.com/aparnaannapragada)
 - [Max Fahrmeyer](https://github.com/MaxFahr)
